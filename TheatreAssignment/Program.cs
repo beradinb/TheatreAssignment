@@ -15,7 +15,7 @@ namespace TheatreAssignment
 
             Theatre nTheatre = new Theatre(2);
 
-            ////////////////////RESERVING TEST////////////////////
+            ////////////////////RESERVING TEST/////////////////////
             //////////////////////////////////////////////////////
             Console.WriteLine("Reserving 50 seats of performance 1 ");
             for (int i =1; i <= 50; i++)
