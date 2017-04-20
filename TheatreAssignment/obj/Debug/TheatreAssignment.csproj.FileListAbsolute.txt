@@ -1,0 +1,14 @@
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\bin\Debug\CodeContracts\TheatreAssignment.Contracts.dll
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\bin\Debug\CodeContracts\TheatreAssignment.Contracts.pdb
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\bin\Debug\TheatreAssignment.XML
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\Decl\TheatreAssignment.exe
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\Decl\TheatreAssignment.pdb
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\TheatreAssignmentccrefgen.rsp
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\TheatreAssignment.exe
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\TheatreAssignment.pdb
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\bin\Debug\TheatreAssignment.exe.config
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\bin\Debug\TheatreAssignment.exe
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\bin\Debug\TheatreAssignment.pdb
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\TheatreAssignment.csprojResolveAssemblyReference.cache
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\TheatreAssignment.rewritten
+C:\Users\BERADINB\Documents\University Work\Year 3\Advanced Software Engineering Practices\TheatreAssignment\TheatreAssignment\obj\Debug\CodeContractAnalysisRun.log
